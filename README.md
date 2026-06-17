@@ -52,7 +52,7 @@ The application consists of three modules:
 | -------- | ------- |
 | Manager  | 12      |
 | Customer | 10      |
-| Total    | 32      |
+| Total    | 22      |
 
 ## Tools Used
 
